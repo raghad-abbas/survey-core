@@ -12,9 +12,13 @@
 | Role                | Member         |
 ----------------------------------------
 | Repository Manager  | Raghad Abbas   |
+----------------------------------------
 | Code Reviewer       | Shahed Musallm |
+----------------------------------------
 | Documentation Lead  | Alaa Husam     |
+----------------------------------------
 | Meeting Coordinator | Soad Alastal   |
+----------------------------------------
 | Tester              |  Shahed Hassan |
 ----------------------------------------
 ---
