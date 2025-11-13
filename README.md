@@ -4,7 +4,7 @@
 - **Project:** Kotlin Challenge  
 - **Team:** Survey Core  
 - **Motto:** *Teamwork, Creativity, and Growth*  
-- [![Team Image](https://github.com/raghad-abbas/survey-core/blob/main/Team%20logo.jpg?raw=true)
+- ![Team Image](https://github.com/raghad-abbas/survey-core/blob/main/Team%20logo.jpg?raw=true)
 
 ---
 
