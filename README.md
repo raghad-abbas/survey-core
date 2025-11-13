@@ -4,7 +4,7 @@
 - **Project:** Kotlin Challenge  
 - **Team:** Survey Core  
 - **Motto:** *Teamwork, Creativity, and Growth*  
-- [![Team Image](https://github.com/raghad-abbas/survey-core/blob/main/WhatsApp%20Image%202025-11-12%20at%2011.56.43_405fe030.jpg?raw=true)](https://github.com/raghad-abbas/survey-core/blob/main/Team%20logo.jpg)
+- [![Team Image](https://github.com/raghad-abbas/survey-core/blob/main/Team%20logo.jpg?raw=true)
 
 ---
 
